@@ -29,8 +29,8 @@ p, .no-highlight {
 .no-highlight {
   font-family: Helvetica, sans-serif;
 /*   background-color: white; */
-
 }
+
 /* original styles */
 .authors {
   margin-left: 100px;
@@ -46,6 +46,7 @@ p, .no-highlight {
   font-family: georgia, serif;
   font-size: 2em;
 }
+
 .active {
   text-transform: uppercase;
 }
@@ -68,7 +69,6 @@ button:disabled {
 
 .someStyling{
   color: blue;
-
 }
 
 button {
