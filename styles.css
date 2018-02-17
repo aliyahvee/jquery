@@ -1,0 +1,78 @@
+/* Add in the external .css stylesheet*/
+.demo {
+  margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* original styles */
+p, .no-highlight {
+  display: inline;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.no-highlight {
+  font-family: Helvetica, sans-serif;
+/*   background-color: white; */
+
+}
+/* original styles */
+.authors {
+  margin-left: 100px;
+}
+
+.quote {
+  padding: 20px;
+}
+
+/* pseudo stlyes */
+
+.head-txt {
+  font-family: georgia, serif;
+  font-size: 2em;
+}
+.active {
+  text-transform: uppercase;
+}
+
+button {
+    margin-top: 10px;
+}
+
+/* style to fade disable button */
+button:disabled {
+  opacity: .5;
+}
+/* end pseudo styles */
+
+/* new styles */
+.somePadding {
+  padding: 20px;
+  margin-left: 250px;
+}
+
+.someStyling{
+  color: blue;
+
+}
+
+button {
+    margin-top: 10px;
+}
+
+/* style to fade disable button */
+button:disabled {
+  opacity: .5;
+}
+/* end pseudo styles */
+
+/* new styles */
+.somePadding {
+  padding: 20px;
+  margin-left: 250px;
+}
+
+.someStyling{
+  color: blue;
+
+}
