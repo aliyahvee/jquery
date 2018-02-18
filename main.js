@@ -23,7 +23,7 @@ $("#hi-maya").on("click", function (e) {e.preventDefault(); //disable the button
 
   $('#style-multi').on("click", function (e) {e.preventDefault(); //disable the button's default behavior
       $('#para1, #para2').addClass("addBorder higlight"); //adding multiple classes to several elements
-      $('.authors').addClass('somePadding''someStyling'); //adding multiple classes to single element
+      $('.authors').addClass('somePadding someStyling'); //adding multiple classes to single element
     });
 $("#swap-div").on("click", function (e) {e.preventDefault(); //disable the button's default behavior
     $(".demo").addClass('newDiv');
