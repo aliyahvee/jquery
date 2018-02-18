@@ -36,8 +36,9 @@ $('.demo').removeClass('newDiv').addClass('demo');
     //removeClass() works when chained with addClass()
     $('.head-txt, #para1, #para2').removeClass('addBorder');
     //remove border from everything;
-    $('.authors').removeClass('someStyling''somePadding').addClass('.authors');
-//removeClass() multiple classes
+    $('.authors').removeClass('someStyling');
+    $('.authors').removeClass('somePadding');
+    //removeClass() multiple classes
     $('#para2, #para1, .head-txt').removeClass('highlight').addClass('no-highlight');
     $("h3").removeClass("active");
   $("button").prop('disabled', false);
