@@ -92,6 +92,35 @@ button:disabled {
 
 }
 
+.highlight {
+  background-color: yellow;
+  width:
+}
+
+img{
+  opacity: .25;
+}
+
+.addBorder {
+  border-style: solid;
+    border-color: red;
+}
+
+.newDiv {
+  margin: 5px;
+  padding: 30px;
+  width: 600px;
+  height: 400px;
+  background-color: gray;
+}
+
+/* img-underlay {
+  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/153746/hold-hands.jpg);
+  margin-top: 10px;
+    margin-left: 20px;
+  opacity: .8;
+} */
+
 html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
     font-size: 16px;
